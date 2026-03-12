@@ -1,0 +1,5 @@
+{
+  "name": "Omnibook AI",
+  "description": "A professional AI-powered book generation platform that creates full-length books using Gemini Flash.",
+  "requestFramePermissions": []
+}
